@@ -3,7 +3,9 @@ Data Science Job Salaries Dataset contains 11 columns, each are:
 
     1. work_year: The year the salary was paid.
     2. experience_level: The experience level in the job during the year
+        EN Entry-level / Junior MI Mid-level / Intermediate SE Senior-level / Expert EX Executive-level / Director
     3. employment_type: The type of employment for the role
+        PT Part-time FT Full-time CT Contract FL Freelance
     4. job_title: The role worked in during the year.
     5. salary: The total gross salary amount paid.
     6. salary_currency: The currency of the salary paid as an ISO 4217 currency code.
@@ -17,3 +19,10 @@ Data Science Job Salaries Dataset contains 11 columns, each are:
     10. company_location: The country of the employer's main office or contracting branch
     11. company_size: The median number of people that worked for the company during the year
 
+What do I want to explore?
+Question ideas:
+    What is the average salary for each year? - done
+    What is the average salary for each experience level?
+    What is the average salary for each job title? What are the different job titles?
+    What is the average salary per company size. (and per job title?)
+    What are the different residences? What percentage of employee's are in the same location as the company?
