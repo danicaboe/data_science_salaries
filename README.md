@@ -21,7 +21,7 @@ Data Science Job Salaries Dataset contains 11 columns, each are:
 
 What do I want to explore?
 Question ideas:
-    What is the average salary for each year? - done
+    What is the average salary for each year?
     What is the average salary for each experience level?
     What is the average salary for each job title? What are the different job titles?
     What is the average salary per company size. (and per job title?)
