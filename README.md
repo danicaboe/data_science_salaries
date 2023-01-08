@@ -1,4 +1,4 @@
-#Data Related Career
+# Data Related Careers
 
 <h4><em>Data has become a highly prevalent, powerful and potentially dangerous comodity in our society. From websites and social media to the government and smart cities, there is data collection everywhere. The need to have people that can explore, protect and maximize the positive potential of that data is huge. Data can help save lives when used to explore biological, medicinal, chemical and physical threats. Data can improve quality of life by exploring lifestyles, daily habits, psychological therapies and treatments, physical activity and mindfulness. Data can improve the functionaity of a city or company by exploring where and when more traffic accidents take place in an area, how to improve user engagement and experience, and what security measures result in the least amount of breaches. Data plays a role in decision making, business growth, scientific advancement, overall wellbeing and so much more.</em></h4>
 
