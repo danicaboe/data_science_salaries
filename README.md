@@ -1,4 +1,9 @@
-Data found at: https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries?resource=download
+#Data Related Career
+
+<h4><em>Data has become a highly prevalent, powerful and potentially dangerous comodity in our society. From websites and social media to the government and smart cities, there is data collection everywhere. The need to have people that can explore, protect and maximize the positive potential of that data is huge. Data can help save lives when used to explore biological, medicinal, chemical and physical threats. Data can improve quality of life by exploring lifestyles, daily habits, psychological therapies and treatments, physical activity and mindfulness. Data can improve the functionaity of a city or company by exploring where and when more traffic accidents take place in an area, how to improve user engagement and experience, and what security measures result in the least amount of breaches. Data plays a role in decision making, business growth, scientific advancement, overall wellbeing and so much more.</em></h4>
+
+<h4><em>Data careers provide the potential to help make the world a better place. Change comes about first through acknowledging that it is needed. What better way to do so than by showing quantitative and qualitative proof. The dataset in this project goes over the career potentials for those that get into the data related field. These people are needed and knowing that the career is not only personally fulfilling, but also provides strong job growth, relocation opportunities, and competitive salary compensation further encourages people to pursue it. The data explored in this project is just the tip of the iceberg. There is so much more to explore around educational resources, industry types, industry growth, new technologies and specialization paths. This data can be used for different purposes: whether to explore another career path, help with salary negotiation and/or determine how relocation will alter your opportunities. Looking at and exploring data related careers can help people that currently work in the field as well as people that wish to join.</em></h4>
+
 Data Science Job Salaries Dataset contains 11 columns, each are:
 
     1. work_year: The year the salary was paid.
@@ -26,3 +31,5 @@ Question ideas:
     What is the average salary for each job title? What are the different job titles?
     What is the average salary per company size. (and per job title?)
     What are the different residences? What percentage of employee's are in the same location as the company?
+Data found at: https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries?resource=download
+Kaggle data originally sourced from: https://ai-jobs.net/salaries/download/
