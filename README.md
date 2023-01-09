@@ -20,8 +20,8 @@
 </ul>
 
 
-<p>Data puled from: https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries?resource=download<br>
-Kaggle data originally sourced from: https://ai-jobs.net/salaries/download/</p>
+<p>Data downloaded from <a href="https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries?resource=download">Kaggle.</a><br>
+Kaggle data originally sourced from <a href="https://ai-jobs.net/salaries/download/">AI-Jobs.</a></p>
 
 <h5><em>Dataset contains 11 columns, each are broken down below:</em></h5>
 
